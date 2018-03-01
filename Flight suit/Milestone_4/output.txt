@@ -1,0 +1,192 @@
+Student #27295146:
+Mykola Skuybeda
+Instructor #987654321:
+Eliott Coleshill
+Min intensity: 80
+Max intensity: 20
+Tasks to run:
+Task name: Task1
+# of stimulations: 4
+Task name: Task15
+# of stimulations: 3
+Task name: Task5
+# of stimulations: 2
+Task name: Task4
+# of stimulations: 6
+Task name: Task15
+# of stimulations: 3
+Task name: Task16
+# of stimulations: 6
+Task name: Task17
+# of stimulations: 2
+Task name: Task7
+# of stimulations: 3
+--------------------
+Name: Sim30
+Location: traps
+Intensity: 55%
+Frequency: 36
+Duration: 6 seconds
+--------------------
+--------------------
+Name: Sim2
+Location: back
+Intensity: 87%
+Frequency: 35
+Duration: 10 seconds
+--------------------
+--------------------
+Name: Sim22
+Intensity: 67%
+Duration: 5 seconds
+--------------------
+--------------------
+Name: Sim15
+Location: back
+Intensity: 41%
+Frequency: 88
+Duration: 4 seconds
+--------------------
+--------------------
+Name: Sim15
+Location: back
+Intensity: 41%
+Frequency: 88
+Duration: 4 seconds
+--------------------
+--------------------
+Name: Sim13
+Location: front
+Intensity: 63%
+Frequency: 47
+Duration: 7 seconds
+--------------------
+--------------------
+Name: Sim12
+Intensity: 7%
+Duration: 10 seconds
+--------------------
+--------------------
+Name: Sim32
+Intensity: 93%
+Duration: 0 seconds
+--------------------
+--------------------
+Name: Sim1
+Location: front
+Intensity: 66%
+Frequency: 60
+Duration: 0 seconds
+--------------------
+--------------------
+Name: Sim7
+Location: traps
+Intensity: 68%
+Frequency: 60
+Duration: 3 seconds
+--------------------
+--------------------
+Name: Sim10
+Intensity: 82%
+Duration: 3 seconds
+--------------------
+--------------------
+Name: Sim23
+Intensity: 75%
+Duration: 5 seconds
+--------------------
+--------------------
+Name: Sim27
+Location: abs
+Intensity: 82%
+Frequency: 95
+Duration: 8 seconds
+--------------------
+--------------------
+Name: Sim26
+Intensity: 24%
+Duration: 4 seconds
+--------------------
+--------------------
+Name: Sim18
+Intensity: 76%
+Duration: 10 seconds
+--------------------
+--------------------
+Name: Sim15
+Location: back
+Intensity: 41%
+Frequency: 88
+Duration: 4 seconds
+--------------------
+--------------------
+Name: Sim13
+Location: front
+Intensity: 63%
+Frequency: 47
+Duration: 7 seconds
+--------------------
+--------------------
+Name: Sim12
+Intensity: 7%
+Duration: 10 seconds
+--------------------
+--------------------
+Name: Sim17
+Location: front
+Intensity: 32%
+Frequency: 14
+Duration: 1 seconds
+--------------------
+--------------------
+Name: Sim26
+Intensity: 24%
+Duration: 4 seconds
+--------------------
+--------------------
+Name: Sim9
+Intensity: 47%
+Duration: 5 seconds
+--------------------
+--------------------
+Name: Sim9
+Intensity: 47%
+Duration: 5 seconds
+--------------------
+--------------------
+Name: Sim32
+Intensity: 93%
+Duration: 0 seconds
+--------------------
+--------------------
+Name: Sim32
+Intensity: 93%
+Duration: 0 seconds
+--------------------
+--------------------
+Name: Sim6
+Intensity: 3%
+Duration: 2 seconds
+--------------------
+--------------------
+Name: Sim10
+Intensity: 82%
+Duration: 3 seconds
+--------------------
+--------------------
+Name: Sim30
+Location: traps
+Intensity: 55%
+Frequency: 36
+Duration: 6 seconds
+--------------------
+--------------------
+Name: Sim10
+Intensity: 82%
+Duration: 3 seconds
+--------------------
+--------------------
+Name: Sim18
+Intensity: 76%
+Duration: 10 seconds
+--------------------

@@ -1,0 +1,18 @@
+﻿  Task.cpp
+  Stimulation.cpp
+  Stims.cpp
+  Profile.cpp
+c:\users\nick\desktop\btp\milestone_4\milestone_4\profile.cpp(53): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\desktop\btp\milestone_4\milestone_4\profile.cpp(62): warning C4018: '<': signed/unsigned mismatch
+  Milestone_4.cpp
+  Exoskeleton.cpp
+  CSV_row.cpp
+  ARAIG_Sensors.cpp
+c:\users\nick\desktop\btp\milestone_4\milestone_4\araig_sensors.cpp(42): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\desktop\btp\milestone_4\milestone_4\araig_sensors.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\desktop\btp\milestone_4\milestone_4\araig_sensors.cpp(56): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\desktop\btp\milestone_4\milestone_4\araig_sensors.cpp(82): warning C4018: '<': signed/unsigned mismatch
+c:\users\nick\desktop\btp\milestone_4\milestone_4\araig_sensors.cpp(92): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Milestone_4.vcxproj -> C:\Users\Nick\Desktop\btp\Milestone_4\Debug\Milestone_4.exe
+  Milestone_4.vcxproj -> C:\Users\Nick\Desktop\btp\Milestone_4\Debug\Milestone_4.pdb (Full PDB)
